@@ -1,0 +1,20 @@
+.events-container {
+  display: flex;
+  align-items: flex-start;
+  width: 100vw;
+}
+.events-content {
+  background-color: #64738b;
+  width: 60%;
+}
+.events-lists {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  color: white;
+  font-family: Roboto;
+}
+.main-heading {
+  color: white;
+  margin-left: 30px;
+}
